@@ -21,7 +21,7 @@ print("hello world")
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=themycode&hide=prs&show_icons=true&count_private=true&title_color=fff&icon_color=483D8B&text_color=9f9f9f&bg_color=DEG,7FFFD4,00CED1,FAEBD7,483D8B&show_owner=False)
 
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=itstack-demo-design&title_color=fff&icon_color=483D8B&text_color=9f9f9f&bg_color=DEG,FF8C00,00CED1)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=itstack-demo-design&title_color=fff&icon_color=483D8B&text_color=9f9f9f&bg_color=FF8C00,00CED1)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

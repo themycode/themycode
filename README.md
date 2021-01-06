@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/themycode/CodeGuide">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=CodeGuide" />
 </a>
-<a href="https://github.com/themycode/stf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=stf" />
+<a href="https://github.com/themycode/interview">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=interview" />
 </a>
 
 

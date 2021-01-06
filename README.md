@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=itstack-demo-design&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/themycode/itstack-demo-design)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=itstack-demo-design&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/themycode/itstack-demo-design)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=FunTester&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/themycode/FunTester)
 
 
 <a href="https://github.com/themycode/CodeGuide">

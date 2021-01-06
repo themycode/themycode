@@ -19,14 +19,8 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=itstack-demo-design&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/themycode/itstack-demo-design)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=FunTester&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/themycode/FunTester)
 
-
-<a href="https://github.com/themycode/CodeGuide">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=CodeGuide" />
-</a>
-<a href="https://github.com/themycode/interview">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=interview" />
-</a>
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=CodeGuide&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/themycode/FunTester)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=interview&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/themycode/FunTester)
 
 
 
@@ -37,7 +31,7 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themycode&layout=compact)](https://github.com/themycode/github-readme-stats)
 
 
 #### wait for you 🤞

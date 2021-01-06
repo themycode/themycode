@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning  go | groovy | 
 - 🤔 I’m looking for help with ..
 - 💬 Ask me about  🍨👨‍💻🥱
-- 📫 How to reach me: [mail](icloudsme@gmail.com)
+- 📫 How to reach me: [mail call me](icloudsman@gmail.com)
 - ⚡ Fun fact: 🎮🎧⌨
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=themycode&hide=prs&show_icons=true&count_private=true&title_color=fff&icon_color=483D8B&text_color=9f9f9f&bg_color=DEG,7FFFD4,00CED1,FAEBD7,483D8B&show_owner=False)

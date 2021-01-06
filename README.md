@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=itstack-demo-design&title_color=fff&bg_color=000000)](https://github.com/themycode/itstack-demo-design)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=FunTester&title_color=fff&bg_color=000000)](https://github.com/themycode/FunTester)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=interview&title_color=fff&bg_color=000000)](https://github.com/themycode/interview)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=CodeGuide&title_color=fff&bg_color=000000)](https://github.com/themycode/CodeGuide)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=itstack-demo-design&title_color=fff&bg_color=000000&text_color=9f9f9f)](https://github.com/themycode/itstack-demo-design)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=FunTester&title_color=fff&bg_color=000000&text_color=9f9f9f)](https://github.com/themycode/FunTester)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=interview&title_color=fff&bg_color=000000&text_color=9f9f9f)](https://github.com/themycode/interview)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=CodeGuide&title_color=fff&bg_color=000000&text_color=9f9f9f)](https://github.com/themycode/CodeGuide)
 
 
 

@@ -5,20 +5,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Full-Stack Development ⚡ | Open-Source 🔥
+- 🌱 I’m currently learning  go | groovy | 
+- 🤔 I’m looking for help with ..
+- 💬 Ask me about  🍨👨‍💻🥱
+- 📫 How to reach me: [mail](icloudsme@gmail.com)
+- ⚡ Fun fact: 🎮🎧⌨
 
-
-```python
-print("hello world")
-```
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=themycode&hide=prs&show_icons=true&count_private=true&title_color=fff&icon_color=483D8B&text_color=9f9f9f&bg_color=DEG,7FFFD4,00CED1,FAEBD7,483D8B&show_owner=False)
+
+
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=itstack-demo-design&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/themycode/itstack-demo-design)
@@ -29,14 +25,15 @@ print("hello world")
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=CodeGuide" />
 </a>
 <a href="https://github.com/themycode/stf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=CodeGuide" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=stf" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themycode)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themycode)](https://github.com/themycode/)
+
 
 **文章相关：** 
 
-📕 [:pencil2: 技术代码各种文章](https://github.com/themycode/FunTester/blob/okay/document/directory.markdown)
+📕 [:pencil2: 技术代码各种文章](https://github.com/themycode/FunTester/blob/okay/document/directory.markdown)  
 📕 [:trophy: CodeGuide | 程序员编码指南](https://github.com/themycode/CodeGuide)
 
 ### wait for you 🤞

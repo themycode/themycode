@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/themycode/themycode.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=themycode.github.io&theme=transparent" />
 </a>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=interview&title_color=0165f2&bg_color=0d1117&text_color=0165f2)](https://github.com/themycode/interview)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=CodeGuide&title_color=0165f2&bg_color=0d1117&text_color=0165f2)](https://github.com/themycode/CodeGuide)
+</br>
+<a href="https://github.com/themycode/interview">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=interview&theme=transparent" />
+</a>
+<a href="https://github.com/themycode/CodeGuide">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=themycode&repo=CodeGuide&theme=transparent" />
+</a>
